@@ -9,7 +9,7 @@ $ cargo install --git https://github.com/Pranjal-Patel/macro-mate-advanced
 
 ### Key Features:
 
-- 🚀 ***Blazing Speed**: Powered by Rust, Macro Mate ensures your scripts execute swiftly and efficiently, leaving no room for lag or delays.
+- 🚀 **Blazing Speed**: Powered by Rust, Macro Mate ensures your scripts execute swiftly and efficiently, leaving no room for lag or delays.
 - ⌨️ **Keyboard Automation**: Type, simulate key presses, and create complex keyboard macros effortlessly.
 - 🖱️ **Mouse Automation**: Control your mouse with precision, automate clicks, and perform actions with pixel-perfect accuracy.
 - 📦 **Extensible**: Harness the full power of Lua scripting to create custom, modular automation scripts tailored to your needs.
